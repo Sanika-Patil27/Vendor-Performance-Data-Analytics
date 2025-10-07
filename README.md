@@ -1,4 +1,4 @@
-Project Title: Vendor Performance Data Analytics
+*Project Title: Vendor Performance Data Analytics*
 Conducted end-to-end vendor performance analysis by integrating SQL, Python (Pandas, Matplotlib, Seaborn), and Power BI, providing actionable business insights.
 
 Performed data cleaning, transformation, and exploratory data analysis (EDA) on large datasets to identify trends, outliers, and key performance metrics.
